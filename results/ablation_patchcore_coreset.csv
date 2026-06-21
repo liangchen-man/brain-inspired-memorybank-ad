@@ -1,0 +1,3 @@
+coreset_size,image_auroc,pixel_auroc,runtime_seconds,max_gpu_mem_mb,memory_bank_file_bytes,raw_patch_count,candidate_patch_count,coreset_patch_count,heatmap_count,overlay_count,output_dir
+2000,0.959470304975923,0.981511695853978,215.411,31.936,515205,219520,20000,2000,30,30,runs/patchcore_carpet
+1000,0.951043338683788,0.9812965664749769,180.701,31.936,259205,219520,20000,1000,30,30,runs/patchcore_carpet_coreset1000

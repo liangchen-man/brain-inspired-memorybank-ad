@@ -1,0 +1,3 @@
+﻿case_id,video_path,file_size_bytes,duration_seconds,fps,width,height,frame_count,codec,notes
+workstation_video_1,E:\leinaozuoye\data\workstation\raw\20241031_222226.mp4,1019779080,472.61,29.851297879756626,1920,1080,14108,h264,
+workstation_video_2,E:\leinaozuoye\data\workstation\raw\20241101_161258.mp4,2354147775,1091.21,29.953008097010905,1920,1080,32685,h264,

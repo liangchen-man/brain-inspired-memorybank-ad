@@ -1,0 +1,44 @@
+# raw data and videos
+data/
+runs/
+external/
+
+# model / binary / archives
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+*.rar
+*.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# local memory / agents
+memory/
+engramory-memory/
+.agents/
+.codex/
+
+# caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# env / secrets
+.env
+*.key
+*.pem
+
+# generated review packages
+gpt_pro_review_package_*.zip
+paper_claude_package_*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
