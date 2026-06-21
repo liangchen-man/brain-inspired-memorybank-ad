@@ -3,6 +3,7 @@
 **From**: Codex / Claude Code
 **To**: Codex / User
 **Date**: 2026-06-21
+**Updated**: 2026-06-21 (paper_claude_package_v2 generated; GitHub repo initialized, awaiting remote URL)
 
 ---
 
@@ -116,3 +117,22 @@ Recommended next tasks:
 **P2 — Nice to have**:
 7. Case 4 sub-ROI annotation on video frame
 8. Case 2 4→3→4→3 event sequence illustration
+
+---
+
+## 2026-06-21 Update: Packaging & Git Phase
+
+### paper_claude_package_20260621_v2.zip
+- Path: `E:\leinaozuoye\paper_claude_package_20260621_v2.zip`
+- Size: 6.9 MB, 51 entries
+- 42 source files, zero missing
+- `README_FOR_CLAUDE.md` written in Chinese with full writing constraints
+- Zip integrity verified, no large files, no raw data, no videos
+
+### Git Repository
+- `git init` completed, 98 files committed on `master`
+- `.gitignore` configured to exclude: data/, runs/, memory/, *.pt, *.zip, *.mp4, *.pdf, MVTecAD1/, VisA/
+- README.md rewritten with professional project overview
+- REPORT_INDEX.md created
+- **No remote configured** — awaiting GitHub repo URL from user
+- Push pending: once remote is added, run `git remote add origin <URL> && git push -u origin master`
