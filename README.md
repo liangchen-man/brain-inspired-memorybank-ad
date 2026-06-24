@@ -49,7 +49,7 @@
 ## 目录结构
 
 ```
-src/             教学版实验 runner（PaDiM, PatchCore, SPADE, AnomalyDINO, Week 2 时序/可见性基线）
+src/             Runner scripts (PaDiM, PatchCore, SPADE, AnomalyDINO, Week 2 temporal/visibility baselines)
 tools/           图表生成脚本
 report/          最终报告 v2、关键详报、素材索引、P0+P1 图表
 results/         实验数据（summary.csv、各消融/视频审计/时序基线 CSV）
@@ -91,8 +91,3 @@ python src/week2_visibility_baseline.py
 
 ---
 
-## 当前状态
-
-**项目已进入最终报告阶段，不建议继续跑 GPU 实验。**
-
-瓶颈在采集可观测性和时序语义理解，不在模型大小或算力。已完成实验在 RTX 3050 4GB 上均可运行。
