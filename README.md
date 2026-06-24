@@ -50,7 +50,7 @@
 
 ```
 src/             Runner scripts (PaDiM, PatchCore, SPADE, AnomalyDINO, Week 2 temporal/visibility baselines)
-tools/           图表生成脚本
+tools/
 report/          最终报告 v2、关键详报、素材索引、P0+P1 图表
 results/         实验数据（summary.csv、各消融/视频审计/时序基线 CSV）
 README.md        本文件
