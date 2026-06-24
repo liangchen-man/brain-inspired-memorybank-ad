@@ -53,11 +53,8 @@ src/             Runner scripts (PaDiM, PatchCore, SPADE, AnomalyDINO, Week 2 te
 tools/
 report/          最终报告 v2、关键详报、素材索引、P0+P1 图表
 results/         实验数据（summary.csv、各消融/视频审计/时序基线 CSV）
-README.md        本文件
-REPORT_INDEX.md  报告与数据文件索引
 ENVIRONMENT.md   实验环境配置
-ERROR_LOG.md     已知错误与待解决问题记录
-HANDOFF_NEW_SESSION.md  会话交接文件
+README.md        本文件
 .gitignore
 ```
 
@@ -88,6 +85,3 @@ python src/week2_visibility_baseline.py
 
 - MVTec AD：从 [MVTec 官网](https://www.mvtec.com/company/research/datasets/mvtec-ad) 下载后放入 `data/mvtec/`
 - 工业工位视频：课程提供，不在本仓库分发
-
----
-
